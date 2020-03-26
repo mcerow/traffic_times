@@ -1,0 +1,77 @@
+,Weather_Condition,WeatherCondition_Codes
+619422,Blowing Dust,0
+622084,Blowing Dust / Windy,1
+1053340,Blowing Snow,2
+995511,Blowing Snow / Windy,3
+1034317,Clear,4
+512393,Cloudy,5
+516752,Cloudy / Windy,6
+514101,Drizzle,7
+645846,Drizzle / Windy,8
+531041,Drizzle and Fog,9
+512232,Fair,10
+516441,Fair / Windy,11
+512445,Fog,12
+557576,Fog / Windy,13
+512631,Haze,14
+645992,Haze / Windy,15
+516259,Heavy Drizzle,16
+513388,Heavy Rain,17
+540423,Heavy Rain / Windy,18
+520214,Heavy Sleet,19
+550651,Heavy Snow,20
+619126,Heavy Snow / Windy,21
+516890,Heavy T-Storm,22
+601556,Heavy T-Storm / Windy,23
+1112564,Ice Pellets,24
+513764,Light Drizzle,25
+517057,Light Drizzle / Windy,26
+547349,Light Freezing Drizzle,27
+1101816,Light Freezing Fog,28
+515516,Light Freezing Rain,29
+518814,Light Freezing Rain / Windy,30
+1112620,Light Ice Pellets,31
+512493,Light Rain,32
+516694,Light Rain / Windy,33
+576071,Light Rain Shower,34
+601098,Light Rain Shower / Windy,35
+520519,Light Rain with Thunder,36
+513243,Light Snow,37
+515781,Light Snow / Windy,38
+551956,Light Snow Grains,39
+526542,Light Snow Shower,40
+551987,Light Snow and Sleet,41
+995514,Light Snow and Sleet / Windy,42
+993195,Light Snow with Thunder,43
+1127640,Light Thunderstorms and Rain,44
+513868,Mist,45
+512245,Mostly Cloudy,46
+512917,Mostly Cloudy / Windy,47
+520255,N/A Precipitation,48
+1032068,Overcast,49
+735364,Partial Fog,50
+512237,Partly Cloudy,51
+517064,Partly Cloudy / Windy,52
+514507,Patches of Fog,53
+513491,Rain,54
+515664,Rain / Windy,55
+739764,Rain Shower,56
+577782,Sand / Dust Whirlwinds,57
+796573,Sand / Dust Whirlwinds / Windy,58
+1032142,Scattered Clouds,59
+529959,Shallow Fog,60
+531038,Showers in the Vicinity,61
+1124833,Small Hail,62
+556502,Smoke,63
+513251,Snow,64
+537431,Snow / Windy,65
+993139,Snow and Thunder,66
+614398,Squalls / Windy,67
+533359,T-Storm,68
+582540,T-Storm / Windy,69
+530361,Thunder,70
+601245,Thunder / Windy,71
+535677,Thunder in the Vicinity,72
+1044184,Thunderstorms and Rain,73
+513440,Wintry Mix,74
+644719,Wintry Mix / Windy,75
