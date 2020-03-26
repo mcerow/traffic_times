@@ -33,3 +33,13 @@ The questions we're answering in this model -
   9. Pairwise_tukeyhsd from statsmodels.stats.multicomp
   10. Multicomparison from statsmodels.stats.multicomp
  
+In this repo, you will find our jupyter notebooks as well as folders for csv files that relate to category codes and images.
+
+## Data Collection & Cleaning
+
+    see: 'Mod2Project - Data Cleaning'.ipynb
+    
+This notebook contains our data collection & cleaning. We imported a csv file that we downloaded from kaggle.com for US Accidents. We changed the datatypes for our time columns, 'Start_Time', 'End_Time' and 'Weather_Timestamp'. We calculated our 'Time_Lapse' column by subtracting our 'Start_Time' from the 'End_Time'. This will become our target variable. We also changed 'Weather_Timestamp' to only show as the year. We filtered for 2019 to limit our dataset to just accidents that happened last year. 
+
+In our new 2019 dataframe, we cleaned our data for null values and outliers based on our 'Time_Lapse' column. We also changed our categorial features to integers using category codes. To see what these codes represent, see the csv folder for label-code files. We saved down a new csv file for just the 2019 data so that we could work with that for the modeling process.
+
