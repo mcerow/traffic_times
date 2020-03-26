@@ -43,3 +43,21 @@ This notebook contains our data collection & cleaning. We imported a csv file th
 
 In our new 2019 dataframe, we cleaned our data for null values and outliers based on our 'Time_Lapse' column. We also changed our categorial features to integers using category codes. To see what these codes represent, see the csv folder for label-code files. We saved down a new csv file for just the 2019 data so that we could work with that for the modeling process.
 
+## Hypothesis Testing & Linear Regression Modeling
+
+    see: 'Mod2Project - Linear Regression Modeling'.ipynb
+    
+Now that our data has been cleaned and saved down, we began working in a new notebook. We imported our 2019 csv and dug in to some of our features using hypothesis testing.
+
+Our first test was to understand if there was a difference between the severity of an accident and the delay time. We used a boxplot to see the distribution of the data between the 4 different severity levels (see below). We used an ANOVA table which confirmed statistical significance amongst the 4 groups. From there we ran 
+
+boxplot image
+
+
+
+## Conclusion
+
+## Further Analysis
+
+## Presentation Link
+https://docs.google.com/presentation/d/1hXttDyQKVUWx4VMtPG3gqKFCGff1daldsM0aiq4nRaI/edit?ts=5e7cac7c#slide=id.g71e588802c_0_1547
