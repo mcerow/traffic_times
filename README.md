@@ -34,7 +34,7 @@ The questions we're answering in this model -
   9. Pairwise_tukeyhsd from statsmodels.stats.multicomp
   10. Multicomparison from statsmodels.stats.multicomp
  
-In this repo, you will find our jupyter notebooks as well as folders for csv files that relate to category codes and images.
+In this repo, you will find our jupyter notebooks as well as folders for csv files that relate to category codes and images. Unfortunately, our data csv is not available here on github since it was too large to upload. You can download your own csv from the kaggle link above.
 
 
 ## Data Collection & Cleaning
@@ -54,11 +54,7 @@ Now that our data has been cleaned and saved down, we began working in a new not
 
 Our first test was to understand if there was a difference between the severity of an accident and the delay time. We used a boxplot to see the distribution of the data between the 4 different severity levels (see below). We used an ANOVA table which confirmed statistical significance amongst the 4 groups. From there we ran a Multicomparison test & saw our summary using TukeyHSD. We want to include this in our model.
 
-<<<<<<< HEAD
 ![](images/Severity_Comparison.png)
-=======
-boxplot image
->>>>>>> master
 
 We also wondered whether or not the time of day was relevant to our regeression model. Using the 'Sunrise_Sunset' column, we grouped our data by Day or Night. We used a two sample t test to determine that yes, the time of day impacts our delay time. We will want to make sure this feature is included when we build our model.
 
