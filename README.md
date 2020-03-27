@@ -51,7 +51,11 @@ Now that our data has been cleaned and saved down, we began working in a new not
 
 Our first test was to understand if there was a difference between the severity of an accident and the delay time. We used a boxplot to see the distribution of the data between the 4 different severity levels (see below). We used an ANOVA table which confirmed statistical significance amongst the 4 groups. From there we ran 
 
+<<<<<<< HEAD
 ![](images/Severity_Comparison.png)
+=======
+boxplot image
+>>>>>>> master
 
 
 
