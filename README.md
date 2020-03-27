@@ -90,7 +90,7 @@ We want to improve the amount of time an accident causes, so our next steps incl
       
       From that, we want to create an efficiency marker to better equip states with a measure of how they're doing and what 
       steps they need to take to improve delays on the road.
-      
-
+     
+     
 ## Presentation Link
-https://docs.google.com/presentation/d/1hXttDyQKVUWx4VMtPG3gqKFCGff1daldsM0aiq4nRaI/edit?ts=5e7cac7c#slide=id.g71e588802c_0_1547
+https://docs.google.com/presentation/d/1hXttDyQKVUWx4VMtPG3gqKFCGff1daldsM0aiq4nRaI/edit?usp=sharing
